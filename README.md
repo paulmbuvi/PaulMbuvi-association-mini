@@ -73,17 +73,13 @@ Customers who purchase both a mouse and keyboard have an 80% likelihood of also 
 
 - Added personal attribution at the bottom
 
-## How to Run
-1. Install requirements: `pip install pandas mlxtend`
-2. Run the Python script
-3. View generated rules and their metrics
-
 ## Results Analysis
 The rules help identify:
 - Common product bundles
 - Potential cross-selling opportunities  
 - Items that should be placed near each other in store
 
-
-
-
+## How to Run
+1. Install requirements: `pip install pandas mlxtend`
+2. Run the Python script
+3. View generated rules and their metrics
